@@ -25,3 +25,5 @@ What things you need to install on the robots' onboard PC
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for Transmitter-Receiver Program
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
+
+![github-small](https://user-images.githubusercontent.com/99890283/154801634-7b734614-790e-4dc2-99a4-6a95b7e05ed0.jpg)
