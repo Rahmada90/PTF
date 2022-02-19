@@ -1,7 +1,8 @@
 # This is Shell-PTF Nakoela Team Universitas Indonesia <br />
 
 # Guidobot
-Guidobot is autonomous changing tire robot made for Shell PTF 2022 
+Guidobot is autonomous changing tire robot made for Shell PTF 2022 <br />
+
 ![github-small](https://bem.ui.ac.id/wp-content/uploads/2021/07/Logo-UI-SMV-A.-Shelina-Adjani.png)
 
 Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1753472a7dd6 for the CNN code and the dataset <br />
