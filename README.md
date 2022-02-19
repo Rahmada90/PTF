@@ -18,7 +18,7 @@ Big Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-c
 * Guidobot is an Autonomous Changing Tire Robot That Made for Shell Pitch The Future 2022
 * This Repository Contains 4 Folder That Used for Guidobot Program 
 
-# II. Explanation of the Feature
+# II. Explanation of the Features
 
 * CNN : Contains Convolutional Neural Network Program for Creating CNN Model for Tire Prediction <br />
 * Dataset : Contains the Dataset for CNN model training
