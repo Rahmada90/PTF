@@ -10,7 +10,7 @@ Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1
 * CNN : CNN model for tire prediction <br />
 * Dataset : contains dataset for CNN model training
 * Schematics : Our system schematics <br />
-# * Transmitter and Receiver : Contains transmitter-receiver code for tire pressure sensor <br />
+* Transmitter and Receiver : Contains transmitter-receiver code for tire pressure sensor <br />
 
 # II.Prerequisites
 
