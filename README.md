@@ -12,7 +12,7 @@ Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1
 # I. Guidobot <br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99890283/154802405-6d9962c1-79df-46fe-b42a-7cc3f0ec6955.jpeg">
+  <img width = "500" height = "400" src="https://user-images.githubusercontent.com/99890283/154802405-6d9962c1-79df-46fe-b42a-7cc3f0ec6955.jpeg">
 </p>
 
 * Guidobot is an autonomous changing tire robot made for Shell PTF 2022
