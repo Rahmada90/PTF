@@ -25,3 +25,8 @@ What things you need to install on the robots' onboard PC
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
 
+To build and preview the site, run:
+
+```
+$ ./build.sh && ./preview.sh
+```
