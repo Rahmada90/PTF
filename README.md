@@ -1,21 +1,27 @@
-# Guidobot is an autonomous changing tire robot made for Shell PTF 2022 <br />
+# This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository <br />
 
 ![github-small](https://bem.ui.ac.id/wp-content/uploads/2021/07/Logo-UI-SMV-A.-Shelina-Adjani.png)
 
 Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1753472a7dd6 for the CNN code and the dataset <br />
 ## Alert *These codes just a prototype system codes*
 
-# I. This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository that Included folder : <br />
+# I. Guidobot <br />
 
-* CNN : Include Convolutional Neural Network Program for Creating CNN Model for Tire Prediction <br />
-* Dataset : Include the Dataset for CNN model training
-* Schematics : Include the system schematics <br />
-* Transmitter and Receiver : Include Transmitter-receiver code for Tire Pressure Sensor <br />
+* Guidobot is an autonomous changing tire robot made for Shell PTF 2022
+* This Repository Contains 4 Folder That Used for Guidobot Program 
 
-# II. Prerequisites
+# II. Explanation of the Feature
+
+* CNN : Contains Convolutional Neural Network Program for Creating CNN Model for Tire Prediction <br />
+* Dataset : Contains the Dataset for CNN model training
+* Schematics : Contains the system schematics <br />
+* Transmitter and Receiver : ContainsTransmitter-receiver code for Tire Pressure Sensor <br />
+
+# III. Prerequisites
 
 What things you need to install on the robots' onboard PC
 
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for transmitter-receiver program
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory space to run the CNN code
+* [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
 
