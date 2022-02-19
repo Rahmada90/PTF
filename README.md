@@ -1,4 +1,3 @@
-# PTF
 # This is Shell-PTF Nakoela Team Universitas Indonesia <br />
 
 # Guidobot
