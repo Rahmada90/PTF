@@ -16,6 +16,6 @@ Transmitter and Receiver : Contains transmitter-receiver code for tire pressure 
 
 What things you need to install on the vehicle's onboard PC
 
-* [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used to program payloads dropping mechanism
+* [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for transmitter-receiver program
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory space to run the CNN code
 
