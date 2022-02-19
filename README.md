@@ -1,4 +1,7 @@
-![github-small](https://bem.ui.ac.id/wp-content/uploads/2021/07/Logo-UI-SMV-A.-Shelina-Adjani.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://bem.ui.ac.id/wp-content/uploads/2021/07/Logo-UI-SMV-A.-Shelina-Adjani.png">
+</p>
 
 # This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository <br />
 
