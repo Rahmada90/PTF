@@ -7,10 +7,10 @@ Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1
 
 # I. This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository that Included folder : <br />
 
-* CNN : CNN model for tire prediction <br />
-* Dataset : contains dataset for CNN model training
-* Schematics : Our system schematics <br />
-* Transmitter and Receiver : Contains transmitter-receiver code for tire pressure sensor <br />
+* CNN : Include Convolutional Neural Network Program for Creating CNN Model for Tire Prediction <br />
+* Dataset : Include the Dataset for CNN model training
+* Schematics : Include the system schematics <br />
+* Transmitter and Receiver : Include Transmitter-receiver code for Tire Pressure Sensor <br />
 
 # II. Prerequisites
 
