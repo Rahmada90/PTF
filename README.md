@@ -6,6 +6,10 @@ Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1
 
 ## Alert *These codes just a prototype system codes*
 
+<p align="center">
+  <img src="https://media.istockphoto.com/photos/little-robot-waving-hand-cute-robot-isolated-on-white-background-3d-picture-id1250677553?k=20&m=1250677553&s=170667a&w=0&h=bp1jmhQnsoto6npuqHARe9z5UkZIaF560ScMmxi9CSo=">
+</p>
+
 # I. Guidobot <br />
 
 * Guidobot is an autonomous changing tire robot made for Shell PTF 2022
@@ -26,7 +30,9 @@ What things you need to install on the robots' onboard PC
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99890283/154801949-c33d79d6-b416-412a-b8c3-6916640bd08c.jpg">
+</p>
 
 <p align="center">
   <img src="https://media.istockphoto.com/photos/little-robot-waving-hand-cute-robot-isolated-on-white-background-3d-picture-id1250677553?k=20&m=1250677553&s=170667a&w=0&h=bp1jmhQnsoto6npuqHARe9z5UkZIaF560ScMmxi9CSo=">
