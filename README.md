@@ -12,7 +12,7 @@ Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1
 * Schematics : Our system schematics <br />
 # * Transmitter and Receiver : Contains transmitter-receiver code for tire pressure sensor <br />
 
-### II.Prerequisites
+## II.Prerequisites
 
 What things you need to install on the robots' onboard PC
 
