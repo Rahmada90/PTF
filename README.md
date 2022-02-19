@@ -26,8 +26,8 @@ What things you need to install on the robots' onboard PC
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
 
-![github-small](https://user-images.githubusercontent.com/99890283/154801634-7b734614-790e-4dc2-99a4-6a95b7e05ed0.jpg)
+
 
 <p align="center">
-  <img width="460" height="300" src="https://media.istockphoto.com/photos/little-robot-waving-hand-cute-robot-isolated-on-white-background-3d-picture-id1250677553?k=20&m=1250677553&s=170667a&w=0&h=bp1jmhQnsoto6npuqHARe9z5UkZIaF560ScMmxi9CSo=">
+  <img src="https://media.istockphoto.com/photos/little-robot-waving-hand-cute-robot-isolated-on-white-background-3d-picture-id1250677553?k=20&m=1250677553&s=170667a&w=0&h=bp1jmhQnsoto6npuqHARe9z5UkZIaF560ScMmxi9CSo=">
 </p>
