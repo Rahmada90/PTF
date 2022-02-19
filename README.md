@@ -2,7 +2,7 @@
 
 # Guidobot
 Guidobot is autonomous changing tire robot made for Shell PTF 2022 
-![github-small](https://www.google.co.id/url?sa=i&url=https%3A%2F%2Foto.detik.com%2Fmobil%2Fd-2432602%2Fmahasiswa-ui-luncurkan-mobil-masa-depan-1-liter-seribu-km-&psig=AOvVaw0MiVzzied-MNWgtFVweIO1&ust=1645359840126000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCYipnhi_YCFQAAAAAdAAAAABAJ)
+![github-small](https://bem.ui.ac.id/wp-content/uploads/2021/07/Logo-UI-SMV-A.-Shelina-Adjani.png)
 
 Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1753472a7dd6 for the CNN code and the dataset <br />
 ## Alert *These codes just a prototype system codes*
