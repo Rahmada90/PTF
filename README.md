@@ -5,14 +5,14 @@
 Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-cnn-1753472a7dd6 for the CNN code and the dataset <br />
 ## Alert *These codes just a prototype system codes*
 
-# I.This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository <br />
+# I. This is Shell-PTF Nakoela Team Universitas Indonesia Github Repository that Included folder : <br />
 
 * CNN : CNN model for tire prediction <br />
 * Dataset : contains dataset for CNN model training
 * Schematics : Our system schematics <br />
 * Transmitter and Receiver : Contains transmitter-receiver code for tire pressure sensor <br />
 
-# II.Prerequisites
+# II. Prerequisites
 
 What things you need to install on the robots' onboard PC
 
