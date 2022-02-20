@@ -34,3 +34,15 @@ What things you need to install on the robots' onboard PC
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for Transmitter-Receiver Program
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
+
+# IV. Library That Related to the CNN Code 
+ 
+* [Tensorflow](https://www.tensorflow.org/) 
+* [Keras](https://keras.io/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Scikit Learn](https://scikit-learn.org/stable/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Numpy](https://numpy.org/)
+* [OpenCV](https://opencv.org/)
+
