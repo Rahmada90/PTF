@@ -32,7 +32,8 @@ Big Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-c
 What things you need to install on the robots' onboard PC
 
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for Transmitter-Receiver Program
-* [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code
+* [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code on the Browser
+* [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
 * [Tensorflow](https://www.tensorflow.org/) 
 * [Keras](https://keras.io/)
