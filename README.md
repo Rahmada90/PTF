@@ -23,7 +23,7 @@ Big Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-c
 # II. Explanation of the Features
 
 * CNN : Contains Convolutional Neural Network Program for Creating CNN Model for Tire Prediction <br />
-* Dataset : Contains the Dataset for CNN model training
+* Dataset : Contains the Dataset for CNN Model Training
 * Schematics : Contains the Electrical System Schematics <br />
 * Transmitter and Receiver : Contains Transmitter-Receiver Code for Tire Pressure Sensor <br />
 
