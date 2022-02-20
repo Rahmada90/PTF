@@ -35,12 +35,12 @@ What things you need to install on the robots' onboard PC
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code on the Browser
 * [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
 * [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
-* [Tensorflow](https://www.tensorflow.org/) 
-* [Keras](https://keras.io/)
-* [Pandas](https://pandas.pydata.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Scikit Learn](https://scikit-learn.org/stable/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Numpy](https://numpy.org/)
-* [OpenCV](https://opencv.org/)
+* [Tensorflow](https://www.tensorflow.org/) - Used for Doing Neural Network Task 
+* [Keras](https://keras.io/) - Used for Making the CNN Model
+* [Pandas](https://pandas.pydata.org/) - Used for Opens and Manipulate the Dataset
+* [Matplotlib](https://matplotlib.org/) - Used For Data Visualization 
+* [Scikit Learn](https://scikit-learn.org/stable/) - Used for Datapreprocessing 
+* [Seaborn](https://seaborn.pydata.org/) - 
+* [Numpy](https://numpy.org/) - Used to Manipulating the Array 
+* [OpenCV](https://opencv.org/) - Used for Image Processing 
 
