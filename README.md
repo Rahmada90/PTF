@@ -36,11 +36,11 @@ What things you need to install on the robots' onboard PC
 * [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
 * [Fritzing](https://fritzing.org/) - Used for the Electrical Schematics Design 
 * [Tensorflow](https://www.tensorflow.org/) - Used for Doing Neural Network Task 
-* [Keras](https://keras.io/) - Used for Making the CNN Model
+* [Keras](https://keras.io/) - Used for Making of the CNN Model
 * [Pandas](https://pandas.pydata.org/) - Used for Opening and Manipulating the Dataset
-* [Matplotlib](https://matplotlib.org/) - Used for Data Visualization 
-* [Scikit Learn](https://scikit-learn.org/stable/) - Used for Data Preprocessing 
-* [Seaborn](https://seaborn.pydata.org/) - Used for Making Statistical Graphic
+* [Matplotlib](https://matplotlib.org/) - Used for the Data Visualization 
+* [Scikit Learn](https://scikit-learn.org/stable/) - Used for the Data Preprocessing 
+* [Seaborn](https://seaborn.pydata.org/) - Used for Making Statistical Graphics
 * [Numpy](https://numpy.org/) - Used for Manipulating the Array 
-* [OpenCV](https://opencv.org/) - Used for Image Processing 
+* [OpenCV](https://opencv.org/) - Used for the Image Processing 
 
