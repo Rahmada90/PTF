@@ -34,13 +34,13 @@ What things you need to install on the robots' onboard PC
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for Transmitter-Receiver Program
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code on the Browser
 * [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
-* [Fritzing](https://fritzing.org/) - Used for Electrical Schematics Design 
+* [Fritzing](https://fritzing.org/) - Used for the Electrical Schematics Design 
 * [Tensorflow](https://www.tensorflow.org/) - Used for Doing Neural Network Task 
 * [Keras](https://keras.io/) - Used for Making the CNN Model
-* [Pandas](https://pandas.pydata.org/) - Used for Opens and Manipulate the Dataset
-* [Matplotlib](https://matplotlib.org/) - Used For Data Visualization 
-* [Scikit Learn](https://scikit-learn.org/stable/) - Used for Datapreprocessing 
-* [Seaborn](https://seaborn.pydata.org/) - 
-* [Numpy](https://numpy.org/) - Used to Manipulating the Array 
+* [Pandas](https://pandas.pydata.org/) - Used for Opening and Manipulating the Dataset
+* [Matplotlib](https://matplotlib.org/) - Used for Data Visualization 
+* [Scikit Learn](https://scikit-learn.org/stable/) - Used for Data Preprocessing 
+* [Seaborn](https://seaborn.pydata.org/) - Used for Making Statistical Graphic
+* [Numpy](https://numpy.org/) - Used for Manipulating the Array 
 * [OpenCV](https://opencv.org/) - Used for Image Processing 
 
