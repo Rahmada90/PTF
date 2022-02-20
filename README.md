@@ -32,15 +32,15 @@ Big Credit to : https://aitechsystems.medium.com/tyre-pressure-detection-using-c
 What things you need to install on the robots' onboard PC
 
 * [Arduino IDE](https://ubuntu.com/tutorials/install-the-arduino-ide#1-overview) - Used for Transmitter-Receiver Program
+* [Fritzing](https://fritzing.org/) - Used for the Electrical Schematics Design 
 * [Google Colaboratory](https://colab.research.google.com) - Colaboratory Space to Run the CNN Code on the Browser
 * [Jupyter Notebook](https://jupyter.org/) - Notebook That Used to Run Program in the Local MiniPC
-* [Fritzing](https://fritzing.org/) - Used for the Electrical Schematics Design 
-* [Tensorflow](https://www.tensorflow.org/) - Used for Doing Neural Network Task 
 * [Keras](https://keras.io/) - Used for Making of the CNN Model
-* [Pandas](https://pandas.pydata.org/) - Used for Opening and Manipulating the Dataset
 * [Matplotlib](https://matplotlib.org/) - Used for the Data Visualization 
-* [Scikit Learn](https://scikit-learn.org/stable/) - Used for the Data Preprocessing 
-* [Seaborn](https://seaborn.pydata.org/) - Used for Making Statistical Graphics
 * [Numpy](https://numpy.org/) - Used for Manipulating the Array 
 * [OpenCV](https://opencv.org/) - Used for the Image Processing 
+* [Pandas](https://pandas.pydata.org/) - Used for Opening and Manipulating the Dataset
+* [Scikit Learn](https://scikit-learn.org/stable/) - Used for the Data Preprocessing 
+* [Seaborn](https://seaborn.pydata.org/) - Used for Making Statistical Graphics
+* [Tensorflow](https://www.tensorflow.org/) - Used for Doing Neural Network Task 
 
